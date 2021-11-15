@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+background-color:pink;
+}
+h1
+{
+color:orange;
+text-align:center;
+}
+p
+{
+font-family:"Arial";
+font-size:20px;
+}
+
